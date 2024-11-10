@@ -1,0 +1,4 @@
+coppy 2 cái luci vô /home/chiennt97/ax2/package/base-files/files/etc/
+
+coppy 99 netword vô /home/chiennt97/ax2/package/base-files/files/etc/uci-defaults/
+chạy update xong build rom
